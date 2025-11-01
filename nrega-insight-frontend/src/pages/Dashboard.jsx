@@ -1,4 +1,5 @@
 import { useState } from "react";
+import { API } from "../config";
 import axios from "axios";
 import {
   BarChart,
@@ -78,9 +79,8 @@ export default function Dashboard() {
   const fetchData = async () => {
     setLoading(true);
     try {
-      const res = await axios.get(
-        `http://localhost:5000/api/mgnrega/${state}/${district}`
-      );
+      const res = await axios.get(`${API.MGNREGA}/${state}/${district}`);
+
       setData(res.data.data);
     } catch (err) {
       alert("Failed to fetch data 😞");
