@@ -252,7 +252,6 @@ export default function Dashboard() {
   );
 }
 
-// 🎨 Card Component with Gradient Background
 function Card({ title, value, color }) {
   const gradientMap = {
     blue: "from-blue-500 to-indigo-500",
