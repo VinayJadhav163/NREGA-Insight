@@ -42,10 +42,9 @@ This project brings transparency and data-driven understanding of rural employme
    cd NREGA-Insight/nrega-insight-frontend# NREGA-Insight
 ```
 
----
-
 
 2. Install Dependencies
+
  ```bash
 npm install
 ```
