@@ -1,3 +1,4 @@
+<a name="top"></a>
 # 🌾 NREGA Insight
 **Empowering Rural India Through Data**
 
