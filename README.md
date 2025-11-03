@@ -45,7 +45,6 @@ This project brings transparency and data-driven understanding of rural employme
 ---
 
 2. Install Dependencies
-
  ```bash
 npm install
 ```
