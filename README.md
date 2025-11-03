@@ -40,6 +40,7 @@ This project brings transparency and data-driven understanding of rural employme
    ```bash
    git clone https://github.com/VinayJadhav163/NREGA-Insight.git
    cd NREGA-Insight/nrega-insight-frontend# NREGA-Insight
+```
 
 ---
 
@@ -47,27 +48,28 @@ This project brings transparency and data-driven understanding of rural employme
 
  ```bash
 npm install
+```
 
 ---
 
 3. Start Development Server
  ```bash
-
 npm start
+```
 
 ---
 
 4. Build for Production
  ```bash
-
 npm run build
+```
 
 ---
 
 5. Serve with Express (server.js)
  ```bash
-
 node server.js
+```
 
 ---
 
