@@ -195,3 +195,6 @@ This project is open-source and available under the MIT License.
 Vinay Jadhav
 MERN Stack Developer | MCA Student | Passionate about Open Data & Visualization
 📍 India
+---
+
+[🔝 Back to Top](#top)
